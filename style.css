@@ -1,0 +1,42 @@
+.bg-main{
+    background-color: rgb(205, 255, 213);
+}
+
+.calculator{
+    background-color: rgb(111, 137, 160);
+    border: 2px solid black;
+    border-top: 20px solid rgb(49, 45, 45);
+    box-shadow: 5px 5px 15px black;
+    border-radius: 7px;
+}
+
+.result{
+    height: 100px;
+    width: 100%;
+    font-size: 43px;
+    text-align: right;
+    outline: none;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 500;
+    color: rgb(16, 67, 68);
+}
+
+.btn-lg{
+    height: 60px !important;
+    width: 90% !important;
+}
+
+.deleteMe{
+    width: 95% !important;
+}
+
+
+.social-media i{
+    font-size: x-large;
+    margin: 5px;
+}
+.footer-name a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
